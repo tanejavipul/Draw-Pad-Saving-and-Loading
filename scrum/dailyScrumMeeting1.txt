@@ -1,0 +1,80 @@
+# Fill in, commit and push each day.
+# Group Member: Vipul Taneja
+
+Nov 22, 2017
+	Today     : Read Assignment
+	Obstacles : 
+
+Nov 23, 2017
+	Yesterday : Read Assignment
+	Today     : start working on save
+	Obstacles : n/a
+
+Nov 24, 2017
+	Yesterday : finished save
+	Today     : test some regex code for load so when it, regex error are not the issue if i get errors.
+				Easier to trace errors for later on.
+	Obstacles : n/a
+
+
+Nov 25, 2017
+	Yesterday : did circles regex expressions and rest of the shapes are similar so need to do all of them.
+	Today     : try to finish load.
+	Obstacles : n/a
+
+Nov 26, 2017
+	Yesterday : Started load
+	Today     : find a way for the error to show up and try to finish if possible
+	Obstacles : find a way for the error to show up
+	
+Nov 27, 2017
+	Yesterday : found a way for the error to show up
+	Today     : try to complete and have a working load by the end of today. Got Clare to help with alot of bug fixes and
+				making some code better.
+	Obstacles : knowing i am going to have alot of minor bugs cause by small types like centre and center.
+	
+Nov 28, 2017
+	Yesterday : finished load.
+	Today     : Helped Clare with Q3.
+	Obstacles : Finding the fastest way to get 4 number that add or multiply to equal the number inputed.
+	
+Nov 29, 2017
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 30, 2017
+	Yesterday : N/A
+	Today     : looked for issues and did some minor fixes in overall assignment.
+	Obstacles : N/A
+
+Dec 1, 2017
+	Yesterday : Fixed minor bugs
+	Today     : Make load test cases with Clare.
+	Obstacles : N/A
+	
+Dec 2, 2017
+	Yesterday : Fixed minor bugs
+	Today     : find more bugs and fix it with Clare.
+	Obstacles : N/A
+
+Dec 3, 2017
+	Yesterday : Fixed bugs
+	Today     : Fix any issues with Clare.
+				PUSH EVERYTHING BY 6PM 
+	Obstacles :
+
+Dec 4, 2017
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+	
+Dec 5, 2017
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Dec 6, 2017
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A

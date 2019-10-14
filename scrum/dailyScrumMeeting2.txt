@@ -1,0 +1,79 @@
+# Fill in, commit and push each day.
+# Group Member: Clare Kim
+
+Nov 22, 2017
+	Yesterday : NA
+	Today     : NA
+	Obstacles : NA
+
+Nov 23, 2017
+	Yesterday : NA
+	Today     : NA
+	Obstacles : NA
+
+Nov 24, 2017
+	Yesterday : NA
+	Today     : NA
+	Obstacles : NA
+
+
+Nov 25, 2017
+	Yesterday : NA
+	Today     : NA
+	Obstacles : NA
+
+Nov 26, 2017
+	Yesterday : NA
+	Today     : Help Vipal to fix the bug to find a way to print errors
+	Obstacles : find a way for the error to show up
+	
+Nov 27, 2017
+	Yesterday : help vipal find a way to print errors
+	Today     : start Part 2 question 1, Part 2 question 3
+	Obstacles : N/A
+	
+Nov 28, 2017
+	Yesterday : start Part 2 question 1, Part 2 question 3, finished question 1
+	Today     : Fix bugs for question 3
+	Obstacles : Still need to get all cases for binary representation
+	
+Nov 29, 2017
+	Yesterday : Fix bugs for question 3
+	Today     : clean up code for question 3
+	Obstacles : N/A
+
+Nov 30, 2017
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Dec 1, 2017
+	Yesterday : N/A
+	Today     : Make test cases with Vipal
+	Obstacles : N/A
+	
+Dec 2, 2017
+	Yesterday : Make test cases with Vipal
+	Today     : Make test cases with Vipal
+	Obstacles : N/A
+
+Dec 3, 2017
+	Yesterday : Make test cases with Vipal
+	Today     : Make test cases with Vipal, clean up q3
+	Obstacles : N/A
+
+Dec 4, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 5, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
